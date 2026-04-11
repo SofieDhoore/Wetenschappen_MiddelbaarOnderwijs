@@ -16,10 +16,18 @@ Hoe ontstaat een bliksemflits?
 
 ## Experimenteren volgens de wetenschappelijke methode
 
-1) Een onderzoeksvraag stellen
+1; Een onderzoeksvraag stellen
 
-2) Een onderzoeksplan opstellen
+Onderzoeksvraag formuleren en daarna eventueel een hypothese (veronderstelling) formuleren.
 
-3) Uitvoering van het onderzoek
+2; Een onderzoeksplan opstellen
 
-4) Een besluit formuleren
+Wat heb je nodig om het onderzoek uit te voeren
+
+3; Uitvoering van het onderzoek
+
+Onderzoek uitvoeren volgens bepaalde werkwijze en bevindingen noteren
+
+4; Een besluit formuleren
+
+Besluit formuleren om de onderzoeksvraag te beantwoorden
