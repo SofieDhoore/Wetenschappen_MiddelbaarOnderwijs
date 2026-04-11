@@ -16,7 +16,15 @@ Functie = hiervoor antwoord je met een werkwoord bv. de functie van de stekels v
 
 #### Bouw van de wortel
 
+- hoofdwortel met aantal dunnere wortels of zijwortels bv. herderstasje
+- bijwortels: meerdere evenlange en evendikke wortels bv. prei
+- wortelhaartjes: fijne, wollige haartjes bij de worteltoppen van volgroeide planten of bij kiemplantjes
+
 #### Functies van de wortel
+
+- vasthechten in de bodem
+- opnamefunctie: de wortelhaartjes nemen mineralen en water op om te groeien
+- transportfunctie: water & opgeloste stoffen doorgeven aan de stengel
 
 ### De stengel
 
