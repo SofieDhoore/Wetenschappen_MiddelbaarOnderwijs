@@ -30,10 +30,33 @@ Functie = hiervoor antwoord je met een werkwoord bv. de functie van de stekels v
 
 #### Bouw van de stengel
 
+- knoop: plaats waar blad aan de stengel vastzit
+- bladlitteken: hetgeen achterblijft op de stengel nadat het blad is afgevallen
+- bladoksel: de hoek die de stengel vormt met de bladsteel
+- okselknop: knop in de bladoksel
+- eindknop: kop aan het uiteinde van de stengel
+
 #### Functies van de stengel
+
+- dragen van knoppen, bladeren, bloemen en vruchten
+- vervoeren van water en voedingstoffen
 
 ### Het blad
 
 #### Bouw van het blad
 
+- bladsteel: deel waarmee blad verbonden is met de stengel
+  - bladschede: onderste deel van bladsteel dat vastzit op de stengel, meestal breder
+- bladschijf: aan het uiteinde van de bladsteel
+  - bladvoet: basis van de bladschijf
+  - bladtop: andere uiteinde van het blad
+  - bladrand: omtreklijn van de bladschijf
+  - hoofdnerf vertakt met zijnerven en bladadertjes
+  - bladmoes: hetgene tussen de nerven zit
+  
+  - oppervlak heeft waslaagje, vetachtig laagje dat water afstoot
+
 #### Functies van het blad
+
+- suiker aanmaken met behulp van lichtenergie
+- water verdampen
