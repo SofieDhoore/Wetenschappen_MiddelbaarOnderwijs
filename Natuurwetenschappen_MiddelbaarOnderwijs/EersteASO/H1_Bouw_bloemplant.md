@@ -53,6 +53,7 @@ Functie = hiervoor antwoord je met een werkwoord bv. de functie van de stekels v
   - bladrand: omtreklijn van de bladschijf
   - hoofdnerf vertakt met zijnerven en bladadertjes
   - bladmoes: hetgene tussen de nerven zit
+  - huidmondjes: kleine openingen op de bladschijf
   
   - oppervlak heeft waslaagje, vetachtig laagje dat water afstoot
 
