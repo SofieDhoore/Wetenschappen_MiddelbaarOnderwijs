@@ -9,8 +9,11 @@ Voorwerpen bestaan uit één of meerdere stoffen. Materie is synoniem voor stoff
 Materie komt voor in drie toestanden, vaste stof, vloeistof en gas. Dit zijn de aggregatietoesten of de fasen.
 
 > GROOTHEDEN & EENHEDEN
+>
 > Grootheid = iets wat je kan meten bv de lengte van een voorwerp, de tijd,...
+>
 > Bij elke grootheid hoort een eenheid, de maat waarin een grootheid wordt uitgedrukt. bv. meter, seconde,...
+>
 > Meetresultaat uitgedrukt in getalwaarde gevolgd door een eenheid. Bv 1 meter
 
 ## Massa en volume
