@@ -20,9 +20,37 @@ Materie komt voor in drie toestanden, vaste stof, vloeistof en gas. Dit zijn de 
 
 ### Massa
 
+Massa = maat voor hoeveelheid materie
+
+Symbool: _m_
+
+Eenheid van massa: kilogram (kg)
+
 ### Volumne
 
+Volume = ruimte die het voorwerp inneemt
+
+Symbool: _V_
+
+Eenheid van volume: kubieke meter (m³), voor vloeistoffen en gassen liter (l)
+
 ### Massabepaling
+
+Om de massa te bepalen: balans
+
+Rechtstreeks op de balans of via een bekerglas. Formule: _m_ van een hoeveelheid stof = totale _m_ - _m_ van het bekerglas
+
+> MEETBEREIK
+>
+> Verschil tussen laagste en hoogste waarde, bv keukenbalans kan maximaal 2 kg wegen
+>
+> MEETNAUWKEURIGHEID
+>
+> De kleinste waarde die je ermee kan bepalen bv. 0.01 of 0.1
+>
+> TARREREN
+>
+> De tarra beapeln door het op nul te zetten
 
 ### Volumebepaling
 
