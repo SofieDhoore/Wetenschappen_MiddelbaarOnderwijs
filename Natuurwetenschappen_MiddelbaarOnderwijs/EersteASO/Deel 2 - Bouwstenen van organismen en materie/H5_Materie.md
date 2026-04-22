@@ -26,7 +26,7 @@ Symbool: _m_
 
 Eenheid van massa: kilogram (kg)
 
-### Volumne
+### Volume
 
 Volume = ruimte die het voorwerp inneemt
 
