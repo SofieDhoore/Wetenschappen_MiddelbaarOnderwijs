@@ -56,7 +56,23 @@ Rechtstreeks op de balans of via een bekerglas. Formule: _m_ van een hoeveelheid
 
 #### Volume van een hoeveelheid vloeistof bepalen
 
+Vloeistof meten via bekerglas, erlenmeyer of maatcilinder. Het laatste heeft de hoogste meetnauwkeurigheid.
+
 #### Volume van een voorwerp bepalen
+
+- Volumebepaling van een voorwerp met een regelmatige vorm
+
+Eerst lengtemeting en daarna volume berekenen.
+
+Kubus: _V_ = zijde x zijde x zijde
+
+Balk: _V_ = lengte x breedte x hoogte
+
+- Volumebepaling van een voorwerp met een onregelmatige vorm
+
+Ondoordringbaarheid: waar een stof is, kan tegelijkertijd geen andere stof zijn
+
+Voorwerp onderdompelen in maatcilinder gevuld met water. Volume aflezen voor (_V~1_) én na de onderdompeling, het verschil is het volume van het voorwerp.
 
 ## Zuivere stof
 
