@@ -72,7 +72,7 @@ Balk: _V_ = lengte x breedte x hoogte
 
 Ondoordringbaarheid: waar een stof is, kan tegelijkertijd geen andere stof zijn
 
-Voorwerp onderdompelen in maatcilinder gevuld met water. Volume aflezen voor (_V_~1~) én na de onderdompeling, het verschil is het volume van het voorwerp.
+Voorwerp onderdompelen in maatcilinder gevuld met water. Volume aflezen voor (V~1~) én na de onderdompeling, het verschil is het volume van het voorwerp.
 
 ## Zuivere stof
 
