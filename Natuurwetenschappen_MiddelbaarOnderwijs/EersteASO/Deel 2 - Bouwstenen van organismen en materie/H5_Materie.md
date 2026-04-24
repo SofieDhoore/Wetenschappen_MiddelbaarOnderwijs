@@ -72,16 +72,38 @@ Balk: _V_ = lengte x breedte x hoogte
 
 Ondoordringbaarheid: waar een stof is, kan tegelijkertijd geen andere stof zijn
 
-Voorwerp onderdompelen in maatcilinder gevuld met water. Volume aflezen voor (V~1~) én na de onderdompeling, het verschil is het volume van het voorwerp.
+Voorwerp onderdompelen in maatcilinder gevuld met water. Volume aflezen voor (V1) én na (V2) de onderdompeling, het verschil is het volume van het voorwerp.
+
+_V_ van het voorwerp = V2 van het water - V1 van het water
 
 ## Zuivere stof
 
 ### Onderscheid tussen een zuivere stof en een mengsel
 
+Zuivere stof = 1 enkele soort stof
+
+Mengsel = verschillende stoffen/bestanddelen
+
 ### Zuivere stoffen
+
+Zuivere stoffen hebben stofeigenschappen die je kunt waarnemen (aggregatietoestand, kleur, geur) of kunt meten (kookpunt, smeltpunt)
+
+Voorwerpseigenschap: eigenschap van het voorwerp, los van de stof waaruit het bestaat
+
+Stofeigenschap: dit is waar te nemen
 
 ### Mengsels
 
 #### Mengsels met zichtbaar te onderscheiden bestanddelen
 
+Afzonderlijke bestanddelen onderscheiden met blote oog
+
+Rook: fijne deeltjes vaste stof verspreid in een gas
+
+Suspensie: fijne deeltjes vaste stof verspreid in een vloeistof
+
 #### Mengsels met niet zichtbaar te onderscheiden bestanddelen
+
+Bestanddelen niet meer met blote oog te onderscheiden. Dit noemen we een oplossing. Onderscheid tussen opgeloste stof (vaste stof, vloeistof of gas) en oplosmiddel (water of andere vloeistof).
+
+oplossing = oplosmiddel + opgeloste stof
