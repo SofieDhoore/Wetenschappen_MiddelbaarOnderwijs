@@ -54,7 +54,7 @@ Notatie: P(x,y)
 
 ### Element van een verzameling
 
-Collineaire punten: punten die op eenzelfde rechte liggen
+**Collineaire punten**: punten die op eenzelfde rechte liggen
 
 ### Deelverzameling
 
@@ -66,3 +66,17 @@ Stappenplan:
   - nee = geen deel van de rechte
 
 ### Lengte van een lijnstuk
+
+d(A,B): Afstand van A tot B
+
+|AB|: de lengte van het lijnstuk [AB]
+
+### Midden van lijnstuk
+
+Het punt op een lijnstuk dat op gelijke afstand van de beide grenspunten ligt
+
+### Schaal
+
+Verhouding tussen afmetingen van de tekening en de werkelijke afmetingen
+
+Notatie: 1:1000 1 cm op de tekening is 1000 cm in werkelijkheid
