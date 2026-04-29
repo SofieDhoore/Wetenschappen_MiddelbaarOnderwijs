@@ -94,4 +94,12 @@ De aftrekking in N en Z heeft geen neutraal element.
 
 Aangezien er geen neutraal element is, is er ook geen symmetrisch element.
 
+### Hakenregel
+
+Plusteken voor de haken mag je de haken weglaten.
+
+Minteken voor de haken, dan mag je de haken weglaten en elke term binnen de haken van teken veranderen.
+
+bv -(a-b) = -a + b
+
 ## Vergelijkingen en vraagstukken
