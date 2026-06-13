@@ -24,7 +24,7 @@ Gebruik concrete voorbeelden om abstracte ideeën te begrijpen. In de cursus wor
 
 Combineer woord en beeld, probeer de leerstof die je instudeert visueel voor te stellen.
 
-Bron:[The Learning Scientist](]https://www.learningscientists.org/)
+Bron: [The Learning Scientist](https://www.learningscientists.org/)
 
 ## Active recall
 
